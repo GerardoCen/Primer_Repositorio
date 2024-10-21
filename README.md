@@ -1,2 +1,4 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cual estarán disponible mis practicas 
+Este repositorio es propieda de: Gerardo Ceniceros Maldonado
+
+En este Repositoruio están disponibles mis practicas de la segunda unidad realizadas en PHP.
